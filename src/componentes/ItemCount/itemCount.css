@@ -1,0 +1,45 @@
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 4em;
+
+    
+
+    
+}
+
+.botonAgregar{
+    background-color:rgb(241, 21, 186);
+    width: 150px;
+    height: 40px;
+    font-family: cursive;
+    color: blanchedalmond;
+    font-size: medium;
+    border-radius: 25px;
+    text-decoration: none;
+   
+    
+}
+
+.button{
+
+    width: 40px;
+    height: 30px;
+    background-color: aqua;
+    border-radius:  25px ;
+    display: inline-block;
+    justify-content:space-around;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-decoration: none;
+    
+}
+
+.span{
+    font-size: medium;
+    font-family: cursive;
+    font-style: bold;
+
+}

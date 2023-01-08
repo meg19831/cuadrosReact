@@ -1,0 +1,14 @@
+
+.container-detail{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    background-image: url(./fondo.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-decoration: none;
+    
+    
+    
+    } 
+    
